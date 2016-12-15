@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bjorklund": "^1.0.3",
-    "wa-metro": "^1.1.2",
+    "wa-metro": "https://git@github.com/handijk/wa-metro.git",
     "watchjs": "0.0.0"
   },
   "devDependencies": {
